@@ -1,0 +1,108 @@
+#content{
+	margin:30px;
+}
+
+p{
+	color:grey;
+}
+
+a{
+	text-decoration: none;
+    color:#D6313F;
+}
+
+h1{
+	color:gray;
+	font-style: italic;
+	font-weight: normal;
+}
+
+#menu{
+  float:right;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+#menu li {
+	display: inline;
+    float: left;
+}
+
+#menu li a {
+	margin-top: -30px;
+    padding: 10px;
+    text-decoration: none;
+    font-size:18px;
+    color:grey;
+}
+
+#menu li a:hover {
+	color:#4B2026;
+}
+
+.post{
+	margin-top: 50px;
+}
+
+.details h2 a{
+	text-decoration: none;
+    font-size:30px;
+    color: #D6313F ;
+	font-weight: normal;
+}
+.details{
+	height:200px;
+	float:left;
+	width:30%;
+}
+
+.body{
+	padding:30px;
+	display: block;
+}
+.body p{line-height: 140%}
+
+#info a{
+	color:grey;
+	font-weight: bold;
+}
+
+.x{
+	width:100%;
+	height:30px;
+	clear: both;
+}
+.col{
+	float:left;
+	margin: 20px 20px 20px 0;
+	width:380px;
+}
+
+div.details p a:hover {
+	color:#4B2026;
+}
+
+.col h3 a{
+	color:black;
+	font-weight: normal;
+	font-size: 30px;
+}
+
+div.details h2 a:hover{
+	color:#4B2026;
+}
+
+a:hover {
+	color:#4B2026;
+}
+
+
+.info a{
+	color:grey;
+	border-bottom: 1px dotted #4B4B4B; 
+}
+
+#footer{
+	width:98%;
+	float:left;
+}
